@@ -1,0 +1,10 @@
+let x = prompt ('Enter number x','');
+let y = prompt ('Enter number y','');
+let c = Number(x) + Number(y) ;
+alert("2 + 2 =" + c);
+let d = Number(x) - Number(y);
+alert("2 - 2 =" + d);
+let f = Number(x) * Number(y);
+alert("2 * 2 =" + f);
+let g = Number(x) / Number(y);
+alert("2 / 2 =" + g);
