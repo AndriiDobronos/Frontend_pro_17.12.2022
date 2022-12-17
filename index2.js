@@ -3,7 +3,7 @@ let myvar = 122;
 const myvart = 123;
 const myvars = 124;
 function f() {
-    var d = 1;
+    var d = 10;
     let g = 2;
     if (d < 0) {
         let h = 10}
